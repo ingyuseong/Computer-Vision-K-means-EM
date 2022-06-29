@@ -3,7 +3,7 @@
 * C++ Implementation of 1-dimensional K-means & Gaussian Mixture Model for gray-scale image segmentation
 
 ## Result
-* The result of applying 1D K-means clustering & GMM method to each image with the number of clusters, $k$ = 2, 4, or 8, is as follows.
+* The results of applying 1D K-means clustering & GMM method to each image with the number of clusters, $k$ = 2, 4, or 8, are as follows.
 * Note that each cluster's pixel value is the average gray level.
 
 ### Original Input Image
